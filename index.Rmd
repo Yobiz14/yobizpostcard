@@ -3,9 +3,9 @@ title: "Yobiz Del Rosario"
 image: "tobi.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/feed/"
+  ##- label: Twitter
+   # url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
@@ -14,6 +14,7 @@ output:
   postcards::jolla
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a senior majoring in marketing along with a minor in data science living 
+in New York. Currently I plan to work as a Data Entry Specialist at Rutgers 
+University. I love talking about basketball, technology, and interesting food
+recipes!
