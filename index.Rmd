@@ -5,9 +5,8 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/feed/"
   ##- label: Twitter
-   # url: "https://twitter.com/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/Yobiz14"
   - label: Email
     url: "yobizdr@gmail.com"
 output:
