@@ -15,6 +15,6 @@ output:
 ---
  
 I am a senior majoring in marketing along with a minor in data science living 
-in New York. Currently I plan to work as a Data Entry Specialist at Rutgers 
+in New York City. Currently I plan to work as a Data Entry Specialist at Rutgers 
 University. I love talking about basketball, technology, and interesting food
 recipes!
