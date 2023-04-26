@@ -1,6 +1,6 @@
 ---
 title: "Yobiz Del Rosario"
-image: "tobi.jpg"
+image: "blank.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/feed/"
@@ -13,7 +13,7 @@ output:
   postcards::jolla
 ---
  
-I am a senior majoring in marketing along with a minor in data science living 
+I am a senior Majoring in Marketing along with a Minor in Data Science living 
 in New York City. Currently I plan to work as a Data Entry Specialist at Rutgers 
 University. I love talking about basketball, technology, and interesting food
 recipes!
